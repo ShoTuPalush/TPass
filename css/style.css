@@ -430,6 +430,7 @@ header {
 }
 .footer-container {
   padding: 55px 140px;
+  padding-left: 270px;
   display: flex;
   align-items: baseline;
 }
