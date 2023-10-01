@@ -139,6 +139,7 @@ header {
 /* about */
 
 .about-container {
+  width: 1140px;
   padding: 100px 0 154px 55px;
 }
 .about-list {
@@ -255,7 +256,7 @@ header {
   background: #fff;
   box-shadow: 0px 8px 32px 0px rgba(15, 35, 54, 0.06);
   width: 455px;
-  height: 179px;
+  height: 129px;
   margin-bottom: 30px;
   padding: 25px;
   display: flex;
